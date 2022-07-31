@@ -1,4 +1,6 @@
-# Getting Started
+# Ordner Struktur (Webentwicklung)
+
+## Getting Started
 
 ## How to use
 
